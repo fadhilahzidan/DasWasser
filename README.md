@@ -13,10 +13,10 @@ DasWasser is a simple water billing system implemented in C programming language
 
 ## Getting Started
 Follow these steps to run the DasWasser program on your local machine:
-1. Clone the repository: `git clone https://github.com/your-username/daswasser.git`
-2. Navigate to the project directory: `cd daswasser`
-3. Compile the program: `gcc main.c -o daswasser`
-4. Run the program: `./daswasser`
+1. Clone the repository: `git clone [repo_link]`
+2. Navigate to the project directory: `cd [directory_location]`
+3. Compile the program: `gcc [c_file] -o [folder_location]`
+4. Run the program: `./[folder_location]`
 
 ## Usage
 1. Choose registration, login as a user, or login as an admin.
